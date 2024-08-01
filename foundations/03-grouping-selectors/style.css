@@ -1,0 +1,12 @@
+.friendly,
+.assertive{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+.friendly{
+    background-color: black;
+    color: white;
+}
+.assertive{
+    background-color: yellow;
+}
